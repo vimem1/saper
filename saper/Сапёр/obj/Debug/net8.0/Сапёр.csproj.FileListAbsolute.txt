@@ -1,0 +1,15 @@
+C:\Users\student\Source\Repos\saper\Сапёр\bin\Debug\net8.0\Сапёр.exe
+C:\Users\student\Source\Repos\saper\Сапёр\bin\Debug\net8.0\Сапёр.deps.json
+C:\Users\student\Source\Repos\saper\Сапёр\bin\Debug\net8.0\Сапёр.runtimeconfig.json
+C:\Users\student\Source\Repos\saper\Сапёр\bin\Debug\net8.0\Сапёр.dll
+C:\Users\student\Source\Repos\saper\Сапёр\bin\Debug\net8.0\Сапёр.pdb
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\Сапёр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\Сапёр.AssemblyInfoInputs.cache
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\Сапёр.AssemblyInfo.cs
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\Сапёр.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\Сапёр.sourcelink.json
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\Сапёр.dll
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\refint\Сапёр.dll
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\Сапёр.pdb
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\Сапёр.genruntimeconfig.cache
+C:\Users\student\Source\Repos\saper\Сапёр\obj\Debug\net8.0\ref\Сапёр.dll
